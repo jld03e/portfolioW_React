@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import JumboHeader from "./JumboHeader";
 import Content from "./Content";
-import amw from "./images/amw";
+import amw from "./images/amw.png";
 
 const App = () => {
   return (

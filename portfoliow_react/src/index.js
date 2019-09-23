@@ -1,11 +1,12 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
+import JumboHeader from "./JumboHeader";
 
 const App = () => {
   return (
     <div>
-      <h1>Hello New World.</h1>
+      <JumboHeader />
     </div>
   );
 };

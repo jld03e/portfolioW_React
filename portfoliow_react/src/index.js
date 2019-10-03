@@ -18,6 +18,12 @@ const App = () => {
               sound ground floor on a newly developed home, M & M has the
               skillset to meet your needs.
             </p>
+            <h2 className="Header2">Technology</h2>
+            <p className="para2">
+              CSS for the styling of the site along with the use of SASS to
+              organize and re-use CSS elements throughout the project. Source
+              code for the templates is hosted on Amazon Web Services (AWS).
+            </p>
           </div>
           <div className="Block2">
             <img src={amw}></img>

@@ -54,6 +54,28 @@ const App = () => {
         </div>
         <br></br>
       </Content>
+      <Content>
+        <div className="ContentBlock3">
+          <div className="Block1">
+            <h3 className="Header1">Affiliate Marketing</h3>
+            <p className="para1">
+              For whatever items or inventory you are looking to sell, this
+              Affiliate Marketing template allows users to update this site and
+              have their products ready for sale.
+            </p>
+            <h2 className="Header2">Technology</h2>
+            <p className="para2">
+              CSS for the styling of the site along with the use of SASS to
+              organize and re-use CSS elements throughout the project. Source
+              code for the templates is hosted on Amazon Web Services (AWS).
+            </p>
+          </div>
+          <div className="Block2">
+            <img className="image1" src={amw}></img>
+          </div>
+        </div>
+        <br></br>
+      </Content>
     </div>
   );
 };

@@ -30,8 +30,6 @@ const App = () => {
           </div>
           <div className="Block2">
             <img className="image1" src={amw}></img>
-          </div>
-          <div className="logos">
             <img className="image2" src={sass}></img>
             <img className="image3" src={css}></img>
           </div>

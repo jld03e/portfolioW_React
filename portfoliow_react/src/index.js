@@ -3,6 +3,8 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import JumboHeader from "./JumboHeader";
 import Content from "./Content";
+import sass from "./images/sass.png";
+import css from "./images/css.png";
 import amw from "./images/amw.png";
 import MnMTW from "./images/MnMTW.png";
 
@@ -28,6 +30,10 @@ const App = () => {
           </div>
           <div className="Block2">
             <img className="image1" src={amw}></img>
+          </div>
+          <div className="logos">
+            <img className="image2" src={sass}></img>
+            <img className="image3" src={css}></img>
           </div>
         </div>
         <br></br>

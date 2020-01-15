@@ -7,6 +7,7 @@ import sass from "./images/sass.png";
 import css from "./images/css.png";
 import amw from "./images/amw.png";
 import MnMTW from "./images/MnMTW.png";
+import cards from "./images/cards_css.png";
 import react from "./images/react.png";
 import mongoDB from "./images/mongoDB.png";
 
@@ -57,8 +58,9 @@ const App = () => {
           <div className="Block2">
             <img className="image1" src={MnMTW}></img>
             <img className="image2" src={sass}></img>
-            <img className="image3" src={react}></img>
-            <img className="image4" src={mongoDB}></img>
+            <img className="image3" src={css}></img>
+            <img className="image4" src={react}></img>
+            <img className="image5" src={mongoDB}></img>
           </div>
         </div>
         <br></br>
@@ -66,11 +68,11 @@ const App = () => {
       <Content>
         <div className="ContentBlock3">
           <div className="Block1">
-            <h3 className="Header1">Affiliate Marketing</h3>
+            <h3 className="Header1">Material Design Cards</h3>
             <p className="para1">
-              For whatever items or inventory you are looking to sell, this
-              Affiliate Marketing template allows users to update this site and
-              have their products ready for sale.
+              A CSS library of Material Design inspired cards with access to a
+              website that includes a CDN link to make the implementation of
+              these cards on a user's project that much easier.
             </p>
             <h2 className="Header2">Technology</h2>
             <p className="para2">
@@ -80,7 +82,7 @@ const App = () => {
             </p>
           </div>
           <div className="Block2">
-            <img className="image1" src={amw}></img>
+            <img className="image1" src={cards}></img>
           </div>
         </div>
         <br></br>

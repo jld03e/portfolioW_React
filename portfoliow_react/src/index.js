@@ -8,6 +8,7 @@ import css from "./images/css.png";
 import amw from "./images/amw.png";
 import MnMTW from "./images/MnMTW.png";
 import react from "./images/react.png";
+import mongoDB from "./images/mongoDB.png";
 
 const App = () => {
   return (
@@ -57,6 +58,7 @@ const App = () => {
             <img className="image1" src={MnMTW}></img>
             <img className="image2" src={sass}></img>
             <img className="image3" src={react}></img>
+            <img className="image4" src={mongoDB}></img>
           </div>
         </div>
         <br></br>

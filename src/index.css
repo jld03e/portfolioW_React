@@ -1,0 +1,233 @@
+body {
+  background-color: antiquewhite;
+}
+
+/* Jumbo Header styling*/
+
+.JumboHeader {
+  padding: 150px;
+  height: 250px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.JumboHeader .HeadText {
+  font-size: 70px;
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+  color: grey;
+}
+
+.JumboHeader h2 {
+  color: darkslategrey;
+  font-size: 40px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.JumboHeader h3 {
+  color: darkslategrey;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+/* content block styling 
+primarily for text and the
+like */
+
+.ContentBlock1 {
+  display: flex;
+  flex-direction: row;
+  background-color: lightgray;
+  justify-content: space-evenly;
+}
+
+.ContentBlock1 .Block1 {
+  align-items: center;
+  align-content: center;
+  box-sizing: border-box;
+  width: 30%;
+}
+
+.ContentBlock1 .Block2 {
+  flex-wrap: wrap;
+}
+
+.ContentBlock1 .Block2 .image1 {
+  border-style: solid;
+  border-width: 5px darkslategrey;
+  width: 850px;
+  border-radius: 20px;
+  margin: 55px;
+  display: block;
+  background: #ffffff;
+  transition: all 0.25s linear;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.4);
+}
+
+.ContentBlock1 .Block2 .image1:hover {
+  box-shadow: -1px 10px 29px 0px rgba(0, 0, 0, 0.8);
+}
+
+.ContentBlock1 .Block2 .image2 {
+  width: 100px;
+  padding-left: 350px;
+}
+
+.ContentBlock1 .Block2 .image3 {
+  width: 100px;
+  padding: 10px;
+}
+
+.Header1 {
+  font-size: 40px;
+  font-family: "Rubik", sans-serif;
+  color: darkslategrey;
+  text-align: center;
+}
+.para1 {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.Header2 {
+  font-family: "Rubik", sans-serif;
+  color: darkslategrey;
+  text-align: center;
+}
+.para2 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  padding: 5px;
+}
+
+.ContentBlock2 {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-evenly;
+}
+
+.ContentBlock2 .Block1 {
+  align-items: center;
+  align-content: center;
+  box-sizing: border-box;
+  width: 30%;
+}
+
+.ContentBlock2 .Block2 {
+  flex-wrap: wrap;
+}
+
+.ContentBlock2 .Block2 .image1 {
+  width: 850px;
+  border-style: solid;
+  border-width: 5px darkslategrey;
+  border-radius: 20px;
+  margin: 55px;
+  display: block;
+  background: #ffffff;
+  transition: all 0.25s linear;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.4);
+}
+
+.ContentBlock2 .Block2 .image1:hover {
+  box-shadow: -1px 10px 29px 0px rgba(0, 0, 0, 0.8);
+}
+
+.ContentBlock2 .Block2 .image2 {
+  width: 100px;
+  padding-left: 350px;
+}
+
+.ContentBlock2 .Block2 .image3 {
+  width: 100px;
+  padding: 10px;
+}
+
+.ContentBlock2 .Block2 .image4 {
+  width: 100px;
+}
+
+.ContentBlock2 .Block2 .image5 {
+  width: 100px;
+}
+
+.Header1 {
+  font-size: 40px;
+  font-family: "Rubik", sans-serif;
+  color: darkslategrey;
+  text-align: center;
+}
+.para1 {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.Header2 {
+  font-family: "Rubik", sans-serif;
+  color: darkslategrey;
+  text-align: center;
+}
+.para2 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  padding: 5px;
+}
+
+.ContentBlock3 {
+  display: flex;
+  flex-direction: row;
+  /* margin: -8px; */
+  justify-content: space-evenly;
+  background-color: lightgray;
+}
+
+.ContentBlock3 .Block1 {
+  align-items: center;
+  align-content: center;
+  /* border: solid 4px darkslategrey; */
+  box-sizing: border-box;
+  width: 30%;
+}
+
+.ContentBlock3 .Block2 .image1 {
+  width: 600px;
+  border-radius: 20px;
+  margin: 55px;
+  border-style: solid;
+  border-width: 5px darkslategrey;
+  display: block;
+  background: #ffffff;
+  transition: all 0.25s linear;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.4);
+}
+
+.ContentBlock3 .Block2 .image1:hover {
+  box-shadow: -1px 10px 29px 0px rgba(0, 0, 0, 0.8);
+}
+
+.Header1 {
+  font-size: 40px;
+  font-family: "Rubik", sans-serif;
+  color: darkslategrey;
+  text-align: center;
+}
+.para1 {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.Header2 {
+  font-family: "Rubik", sans-serif;
+  color: darkslategrey;
+  text-align: center;
+}
+.para2 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  padding: 5px;
+}

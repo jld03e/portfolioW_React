@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolioW_React/static/css/main.cbb63b4c.chunk.css",
+    "main.js": "/portfolioW_React/static/js/main.2b8ffd50.chunk.js",
+    "main.js.map": "/portfolioW_React/static/js/main.2b8ffd50.chunk.js.map",
+    "runtime-main.js": "/portfolioW_React/static/js/runtime-main.0fa87400.js",
+    "runtime-main.js.map": "/portfolioW_React/static/js/runtime-main.0fa87400.js.map",
+    "static/js/2.627e3211.chunk.js": "/portfolioW_React/static/js/2.627e3211.chunk.js",
+    "static/js/2.627e3211.chunk.js.map": "/portfolioW_React/static/js/2.627e3211.chunk.js.map",
+    "index.html": "/portfolioW_React/index.html",
+    "precache-manifest.1b8ace1301905432587e69d8e250c92a.js": "/portfolioW_React/precache-manifest.1b8ace1301905432587e69d8e250c92a.js",
+    "service-worker.js": "/portfolioW_React/service-worker.js",
+    "static/css/main.cbb63b4c.chunk.css.map": "/portfolioW_React/static/css/main.cbb63b4c.chunk.css.map",
+    "static/media/MnMTW.png": "/portfolioW_React/static/media/MnMTW.9f6cef14.png",
+    "static/media/amw.png": "/portfolioW_React/static/media/amw.1bd393a8.png",
+    "static/media/cards_css.png": "/portfolioW_React/static/media/cards_css.215064f1.png",
+    "static/media/css.png": "/portfolioW_React/static/media/css.75e4d6d5.png",
+    "static/media/mongoDB.png": "/portfolioW_React/static/media/mongoDB.8d95890a.png",
+    "static/media/react.png": "/portfolioW_React/static/media/react.f297dfcd.png",
+    "static/media/sass.png": "/portfolioW_React/static/media/sass.a2bc8ecf.png"
+  }
+}
